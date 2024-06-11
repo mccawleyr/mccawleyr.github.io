@@ -30,7 +30,10 @@ key: page-about
 
 I am **Ryan McCawley**
 
-A seasoned professional with over 15 years of experience in private cloud engineering. Currently, I am the manager of Cybersecurity, where I lead efforts to safeguard digital environments and ensure robust security protocols. My journey in the tech field has been fueled by a passion for innovation and a drive to master cutting-edge technologies. I particularly enjoy working on projects involving Python programming, Terraform, Ansible, and Kubernetes. This portfolio showcases a selection of my work, reflecting my commitment to excellence and my enthusiasm for continuous learning and improvement.
+A seasoned professional with over 15 years of experience in private cloud engineering.
+
+<br>
+Currently, I am the manager of Cybersecurity, where I lead efforts to safeguard digital environments and ensure robust security protocols. My journey in the tech field has been fueled by a passion for innovation and a drive to master cutting-edge technologies. I particularly enjoy working on projects involving Python programming, Terraform, Ansible, and Kubernetes. This portfolio showcases a selection of my work, reflecting my commitment to excellence and my enthusiasm for continuous learning and improvement.
 
 <br>
 ## Technical Skills ##
@@ -65,7 +68,6 @@ A seasoned professional with over 15 years of experience in private cloud engine
   <li>Microsoft Defender</li>
   <li>PostgreSQL</li>
   <li>MySQL</li>
-  <li>AWS</li>
   <li>Python</li>
 </ul>
 
