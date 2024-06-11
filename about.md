@@ -28,7 +28,9 @@ key: page-about
 
 ![Ryan and Greyson](/assets/images/Ryan_Greyson.png){:style="float: left; margin-right: 10px;"}
 
-I am Ryan McCawley, a seasoned professional with over 15 years of experience in private cloud engineering. Currently, I am the manager of Cybersecurity, where I lead efforts to safeguard digital environments and ensure robust security protocols. My journey in the tech field has been fueled by a passion for innovation and a drive to master cutting-edge technologies. I particularly enjoy working on projects involving Python programming, Terraform, Ansible, and Kubernetes. This portfolio showcases a selection of my work, reflecting my commitment to excellence and my enthusiasm for continuous learning and improvement.
+I am *Ryan McCawley*
+
+A seasoned professional with over 15 years of experience in private cloud engineering. Currently, I am the manager of Cybersecurity, where I lead efforts to safeguard digital environments and ensure robust security protocols. My journey in the tech field has been fueled by a passion for innovation and a drive to master cutting-edge technologies. I particularly enjoy working on projects involving Python programming, Terraform, Ansible, and Kubernetes. This portfolio showcases a selection of my work, reflecting my commitment to excellence and my enthusiasm for continuous learning and improvement.
 
 ## Technical Skills ##
 
