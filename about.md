@@ -32,7 +32,7 @@ I am Ryan McCawley, a seasoned professional with over 15 years of experience in 
 
 ## Technical Skills ##
 
-<ul class ="responsive-list">
+<ul>
   <li>Security Awareness</li>
   <li>Vulnerability Management</li>
   <li>Ubuntu Linux</li>
