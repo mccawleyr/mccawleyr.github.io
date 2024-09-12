@@ -3,7 +3,7 @@ layout: post
 title: "Hello Homelab!"
 date: 2024-09-12 09:00:00 -0500
 categories: homelab
-tags: jekyll github
+tags: jekyll github homelab
 
 ---
 
