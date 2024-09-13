@@ -1,14 +1,14 @@
 #  The contact options.
+-
+  type: links
+  icon: 'fa-solid fa-link'
+  url:  'https://ryan.mccawley.me'
 
 - type: github
   icon: "fab fa-github"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
